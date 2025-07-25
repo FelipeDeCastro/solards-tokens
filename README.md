@@ -2,6 +2,8 @@
 
 This repository serves as the **design-focused** token storage for the Solar Design System, acting as the bridge between design tokens created in [Tokens Studio](https://tokens.studio/) and their transformation for Figma workflows. [Supernova](https://supernova.io/) integrates directly with Tokens Studio for development pipeline distribution.
 
+> **⚠️ Temporary Solution**: This GitHub repository serves as a temporary token storage solution and will be replaced by [app.tokens.studio](https://app.tokens.studio) in the future, which will provide native cloud storage and enhanced collaboration features.
+
 ## Overview
 
 This repository acts as the **design source of truth** for design tokens, with the following workflow:
@@ -15,7 +17,7 @@ This repository acts as the **design source of truth** for design tokens, with t
 
 1. **Token Creation**: Design tokens are created and maintained in Tokens Studio as the primary authoring tool
 2. **Token Transformation**: Tokens Studio processes and transforms tokens to match your specific Figma file structure requirements
-3. **GitHub Sync**: Transformed tokens are synced from Tokens Studio to this repository for Figma consumption
+3. **GitHub Sync**: Tokens are synced from Tokens Studio to this repository for storage purpose
 4. **Supernova Integration**: Supernova integrates directly with Tokens Studio to access the source tokens
 5. **Development Pipelines**: Supernova generates code outputs for two pipelines:
    - **Tailwind CSS** pipeline for utility-first styling
