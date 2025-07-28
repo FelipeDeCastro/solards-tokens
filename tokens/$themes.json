@@ -5,8 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Primitive/Colours": "enabled",
-      "Themes/Light": "enabled",
-      "Themes/Dark": "disabled"
+      "Themes/Light": "enabled"
     },
     "group": "Theme"
   },
@@ -16,7 +15,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Primitive/Colours": "enabled",
-      "Themes/Light": "disabled",
       "Themes/Dark": "enabled"
     },
     "group": "Theme"
