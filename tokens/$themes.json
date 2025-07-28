@@ -4,8 +4,9 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "ColourPrimitives/PrimitiveColours": "enabled",
-      "ColourRoles/Light": "enabled"
+      "Primitive/Colours": "enabled",
+      "Themes/Light": "enabled",
+      "Themes/Dark": "disabled"
     },
     "group": "Theme"
   },
@@ -14,8 +15,9 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "ColourPrimitives/PrimitiveColours": "enabled",
-      "ColourRoles/Dark": "enabled"
+      "Primitive/Colours": "enabled",
+      "Themes/Light": "disabled",
+      "Themes/Dark": "enabled"
     },
     "group": "Theme"
   }

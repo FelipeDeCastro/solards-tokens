@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
-    "ColourPrimitives/PrimitiveColours",
-    "ColourRoles/Light",
-    "ColourRoles/Dark"
+    "Primitive/Colours",
+    "Themes/Light",
+    "Themes/Dark"
   ]
 }
