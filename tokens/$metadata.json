@@ -1,7 +1,9 @@
 {
   "tokenSetOrder": [
-    "Primitive/Colours",
-    "Themes/Light",
-    "Themes/Dark"
+    "Base/Primitives",
+    "Themes/B2B-Light",
+    "Themes/B2B-Dark",
+    "Themes/B2C-Light",
+    "Themes/B2C-Dark"
   ]
 }

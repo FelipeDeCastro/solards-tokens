@@ -1,22 +1,129 @@
 [
   {
-    "id": "84e6a2dc1ec3a1ab3d80a772b6a03f7954badaba",
-    "name": "Light",
+    "id": "da5757f0210cabd12cbd114b39ae03d41f73b3f0",
+    "name": "Primitives",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Primitive/Colours": "enabled",
-      "Themes/Light": "enabled"
+      "Base/Primitives": "enabled"
     },
-    "group": "Theme"
+    "group": "Base",
+    "$figmaCollectionId": "VariableCollectionId:3:16",
+    "$figmaModeId": "3:4",
+    "$figmaVariableReferences": {
+      "black": "cdbccef70fe44f86dc873d12c9fbd882235fc085",
+      "white": "2e3631171a0ec9ad4440c59a86e9fc721ea4f603",
+      "lavender.50": "d909172da80f2f9f300bdad2cc4c90916acbf6bf",
+      "lavender.100": "397a17ee675f423332281d0ff5afa2d242331549",
+      "lavender.200": "c5d9e28d624adec825854684e9415736ba175b79",
+      "lavender.300": "e03da6d62851c39978260ca42b10e2fcce7099e1",
+      "lavender.400": "345b3f792f89fa817811ba04c592de97821429a2",
+      "lavender.500": "5ac9e3a1517284e6a823c6007d1f86e43d2acc4b",
+      "lavender.600": "c0f2060c069731b2f8ad232ca721a68229d9614a",
+      "lavender.700": "9a7211d60fa760a7f894abe76d8232e2f05c4d7e",
+      "lavender.800": "a5798332b2d7a65e30199b6496f2a95e724d704a",
+      "lavender.900": "f01decadd936c9636d7dfbb6b206df3e65808f28",
+      "lavender.950": "f249ac7cb722f1b03df2edbb56448d85c3781852",
+      "lavender.980": "2818a47c6581792ad9ce93389234e86565d04a1a",
+      "purple.50": "28533c913edcb846b99a334c7d80da086db1c766",
+      "purple.100": "9464d5801f052afc5148c21b9d78871f8dbe9f34",
+      "purple.200": "3f909c10f493c6177217a7c73d13da641b7cea8d",
+      "purple.300": "8e2ede898cbc072bd9ede1adc3bfa89653837bf5",
+      "purple.400": "4ed85400fbf66ba864b976a68f0545ef89d88e0f",
+      "purple.500": "05b6a6fa936835dab3a4cbc3098972ddbdd3b330",
+      "purple.600": "99e997784a8b81b014764d370c2459446686d4fe",
+      "purple.700": "cf7f075929b17e33ae0f7ec943055f90420e97f0",
+      "purple.800": "fe0274a9b9a3ff51fa022c68e18b13e358de804e",
+      "purple.900": "2a599d68fca5a518fb6be0f15b791a40e479ffc7",
+      "purple.950": "40bab0483f173e4ff1b99e249a761d6c6f48d230",
+      "purple.980": "2e39424fefb75b9b46f32a390894f6bb9c8337b8"
+    }
+  },
+  {
+    "id": "84e6a2dc1ec3a1ab3d80a772b6a03f7954badaba",
+    "name": "B2B-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Themes/B2B-Light": "enabled",
+      "Base/Primitives": "source"
+    },
+    "group": "Theme",
+    "$figmaCollectionId": "VariableCollectionId:3:17",
+    "$figmaModeId": "3:5",
+    "$figmaVariableReferences": {
+      "Primary.OnPrimary": "6326e7cdc5d3254e1c69f5e678a0c9a3b60fd47b",
+      "Primary.Primary": "5cb3fcf614c6e9479bdf0f870c10c9c52b8b39f9",
+      "Primary.PrimaryContainer": "9240df2701b40b5da259ea90a3ca540e62469de9",
+      "Primary.OnPrimaryContainer": "3accb252c8269007da9f646c50f60f27d9f76434",
+      "Secondary.Secondary": "5526830ea28726737b6ed8949a8b95235a9f4ac0",
+      "Secondary.OnSecondary": "5c334363cefa4b3e54aa58adaf7b2cf6eff6d6c6",
+      "Secondary.SecondaryContainer": "b31886980b1bf6b5c637e2c06c43a37f2f3afe00",
+      "Secondary.OnSecondaryContainer": "151a9f41b75546cf3ce7db09b60ea5c1ff204432"
+    }
   },
   {
     "id": "5abec7c4d9c38e2060fea9c9eba541a9c15d4243",
-    "name": "Dark",
+    "name": "B2B-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Primitive/Colours": "enabled",
-      "Themes/Dark": "enabled"
+      "Themes/B2B-Dark": "enabled",
+      "Base/Primitives": "source"
     },
-    "group": "Theme"
+    "group": "Theme",
+    "$figmaCollectionId": "VariableCollectionId:3:17",
+    "$figmaModeId": "3:6",
+    "$figmaVariableReferences": {
+      "Primary.OnPrimary": "6326e7cdc5d3254e1c69f5e678a0c9a3b60fd47b",
+      "Primary.Primary": "5cb3fcf614c6e9479bdf0f870c10c9c52b8b39f9",
+      "Primary.PrimaryContainer": "9240df2701b40b5da259ea90a3ca540e62469de9",
+      "Primary.OnPrimaryContainer": "3accb252c8269007da9f646c50f60f27d9f76434",
+      "Secondary.Secondary": "5526830ea28726737b6ed8949a8b95235a9f4ac0",
+      "Secondary.OnSecondary": "5c334363cefa4b3e54aa58adaf7b2cf6eff6d6c6",
+      "Secondary.SecondaryContainer": "b31886980b1bf6b5c637e2c06c43a37f2f3afe00",
+      "Secondary.OnSecondaryContainer": "151a9f41b75546cf3ce7db09b60ea5c1ff204432"
+    }
+  },
+  {
+    "id": "873c1112d320fed1491ecad641324b3cc9ca7502",
+    "name": "B2C-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Themes/B2C-Light": "enabled",
+      "Base/Primitives": "source"
+    },
+    "group": "Theme",
+    "$figmaCollectionId": "VariableCollectionId:3:17",
+    "$figmaModeId": "3:7",
+    "$figmaVariableReferences": {
+      "Primary.OnPrimary": "6326e7cdc5d3254e1c69f5e678a0c9a3b60fd47b",
+      "Primary.Primary": "5cb3fcf614c6e9479bdf0f870c10c9c52b8b39f9",
+      "Primary.PrimaryContainer": "9240df2701b40b5da259ea90a3ca540e62469de9",
+      "Primary.OnPrimaryContainer": "3accb252c8269007da9f646c50f60f27d9f76434",
+      "Secondary.Secondary": "5526830ea28726737b6ed8949a8b95235a9f4ac0",
+      "Secondary.OnSecondary": "5c334363cefa4b3e54aa58adaf7b2cf6eff6d6c6",
+      "Secondary.SecondaryContainer": "b31886980b1bf6b5c637e2c06c43a37f2f3afe00",
+      "Secondary.OnSecondaryContainer": "151a9f41b75546cf3ce7db09b60ea5c1ff204432"
+    }
+  },
+  {
+    "id": "9de70016babe219105b93ef491582c948aa4c4ad",
+    "name": "B2C-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Themes/B2C-Dark": "enabled",
+      "Base/Primitives": "source"
+    },
+    "group": "Theme",
+    "$figmaCollectionId": "VariableCollectionId:3:17",
+    "$figmaModeId": "3:8",
+    "$figmaVariableReferences": {
+      "Primary.OnPrimary": "6326e7cdc5d3254e1c69f5e678a0c9a3b60fd47b",
+      "Primary.Primary": "5cb3fcf614c6e9479bdf0f870c10c9c52b8b39f9",
+      "Primary.PrimaryContainer": "9240df2701b40b5da259ea90a3ca540e62469de9",
+      "Primary.OnPrimaryContainer": "3accb252c8269007da9f646c50f60f27d9f76434",
+      "Secondary.Secondary": "5526830ea28726737b6ed8949a8b95235a9f4ac0",
+      "Secondary.OnSecondary": "5c334363cefa4b3e54aa58adaf7b2cf6eff6d6c6",
+      "Secondary.SecondaryContainer": "b31886980b1bf6b5c637e2c06c43a37f2f3afe00",
+      "Secondary.OnSecondaryContainer": "151a9f41b75546cf3ce7db09b60ea5c1ff204432"
+    }
   }
 ]
