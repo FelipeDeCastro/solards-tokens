@@ -1,0 +1,38 @@
+{
+  "Primary": {
+    "OnPrimary": {
+      "$type": "color",
+      "$value": "{lavender.50}"
+    },
+    "Primary": {
+      "$type": "color",
+      "$value": "{lavender.600}"
+    },
+    "PrimaryContainer": {
+      "$type": "color",
+      "$value": "{lavender.50}"
+    },
+    "OnPrimaryContainer": {
+      "$type": "color",
+      "$value": "{lavender.700}"
+    }
+  },
+  "Secondary": {
+    "Secondary": {
+      "$type": "color",
+      "$value": "{purple.600}"
+    },
+    "OnSecondary": {
+      "$type": "color",
+      "$value": "{purple.50}"
+    },
+    "SecondaryContainer": {
+      "$type": "color",
+      "$value": "{purple.50}"
+    },
+    "OnSecondaryContainer": {
+      "$type": "color",
+      "$value": "{purple.700}"
+    }
+  }
+}

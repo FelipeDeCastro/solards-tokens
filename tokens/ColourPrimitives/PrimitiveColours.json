@@ -1,0 +1,136 @@
+{
+  "black": {
+    "$type": "color",
+    "$value": "#000000",
+    "$description": "White: 21.00 ✅✅ / Black: 1 🚫"
+  },
+  "white": {
+    "$type": "color",
+    "$value": "#ffffff",
+    "$description": "White: 1 🚫 / Black: 21.00 ✅✅"
+  },
+  "lavender": {
+    "50": {
+      "$type": "color",
+      "$value": "#eef2ff",
+      "$description": "White: 1.12 🚫 / Black: 18.78 ✅✅"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#e0e7ff",
+      "$description": "White: 1.23 🚫 / Black: 17.04 ✅✅"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#c7d2fe",
+      "$description": "White: 1.49 🚫 / Black: 14.08 ✅✅"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#9aaef9",
+      "$description": "White: 2.14 🚫 / Black: 9.80 ✅✅"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#818cf8",
+      "$description": "White: 2.98 🚫 / Black: 7.04 ✅✅"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#6366f1",
+      "$description": "White: 4.47 🟠 / Black: 4.70 ✅"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#4f46e5",
+      "$description": "White: 6.29 ✅ / Black: 3.34 🟠"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#4338ca",
+      "$description": "White: 7.90 ✅✅ / Black: 2.66 🚫"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#3730a3",
+      "$description": "White: 9.93 ✅✅ / Black: 2.11 🚫"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#312e81",
+      "$description": "White: 11.42 ✅✅ / Black: 1.84 🚫"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#1e1b4b",
+      "$description": "White: 15.99 ✅✅ / Black: 1.31 🚫"
+    },
+    "980": {
+      "$type": "color",
+      "$value": "#070439",
+      "$description": "White: 19.35 ✅✅ / Black: 1.09 🚫"
+    }
+  },
+  "purple": {
+    "50": {
+      "$type": "color",
+      "$value": "#faf5ff",
+      "$description": "White: 1.07 🚫 / Black: 19.57 ✅✅"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#f3e8ff",
+      "$description": "White: 1.18 🚫 / Black: 17.80 ✅✅"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#e9d5ff",
+      "$description": "White: 1.36 🚫 / Black: 15.43 ✅✅"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#d8b4fe",
+      "$description": "White: 1.77 🚫 / Black: 11.88 ✅✅"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#c084fc",
+      "$description": "White: 2.64 🚫 / Black: 7.95 ✅✅"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#a855f7",
+      "$description": "White: 3.96 🟠 / Black: 5.31 ✅"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#9333ea",
+      "$description": "White: 5.38 ✅ / Black: 3.90 🟠"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#7e22ce",
+      "$description": "White: 6.98 ✅ / Black: 3.01 🟠"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#6b21a8",
+      "$description": "White: 8.72 ✅✅ / Black: 2.41 🚫"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#581c87",
+      "$description": "White: 10.88 ✅✅ / Black: 1.93 🚫"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#3b0764",
+      "$description": "White: 15.00 ✅✅ / Black: 1.40 🚫"
+    },
+    "980": {
+      "$type": "color",
+      "$value": "#270054",
+      "$description": "White: 17.29 ✅✅ / Black: 1.21 🚫"
+    }
+  }
+}

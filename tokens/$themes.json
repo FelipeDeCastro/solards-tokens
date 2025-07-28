@@ -1,0 +1,22 @@
+[
+  {
+    "id": "84e6a2dc1ec3a1ab3d80a772b6a03f7954badaba",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "ColourPrimitives/PrimitiveColours": "enabled",
+      "ColourRoles/Light": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "5abec7c4d9c38e2060fea9c9eba541a9c15d4243",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "ColourPrimitives/PrimitiveColours": "enabled",
+      "ColourRoles/Dark": "enabled"
+    },
+    "group": "Theme"
+  }
+]
